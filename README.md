@@ -1,3 +1,3 @@
 # Media_Queries_Class
 
-url: 
+url: https://alaminbrbd.github.io/Media_Queries_Class/
